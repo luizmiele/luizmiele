@@ -5,7 +5,7 @@ Olá, Me chamo Luiz Miele.
 ## 🚀 Sobre mim
 
 Me chamou Luiz, mas todos me chamam de Miele.
-Sou apaixonado por Tecnologia, viajens, jogos online e series. 
+Sou apaixonado por Tecnologia, viagens, jogos online e series. 
 Adoro programar em equipe e descutir novas tecnologias, entre em contato para fazermos um projeto juntos. 😉
  
 ## 🌐 Tecnologias mais usadas
