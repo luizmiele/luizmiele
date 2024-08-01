@@ -13,6 +13,8 @@ Adoro programar em equipe e descutir novas tecnologias, entre em contato para fa
 ## 🛠️ Tecnologias e Ferramentas
 
 <div style="display: flex; justify-content: space-between; width: 50%;" >
+ <img src="https://img.shields.io/badge/Csharp-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="Csharp" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" style="margin-right: 10px;"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="margin-right: 10px;"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" style="margin-right: 10px;"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="margin-right: 10px;"/>
