@@ -8,7 +8,10 @@ Adoro programar em equipe e descutir novas tecnologias, entre em contato para fa
  
 ## 🌐 Tecnologias mais usadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizmiele&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizmiele&langs_count=10&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 🛠️ Tecnologias e Ferramentas
 
