@@ -27,6 +27,9 @@ Adoro programar em equipe e descutir novas tecnologias, entre em contato para fa
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" style="margin-right: 10px;"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB" style="margin-right: 10px;"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" style="margin-right: 10px;"/>
+ <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" style="margin-right: 10px;"/>
+ <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit" style="margin-right: 10px;"/>
+<img src="https://img.shields.io/badge/xUnit-5E5093?style=for-the-badge&logo=xunit&logoColor=white" alt="xUnit" style="margin-right: 10px;"/>
 </div>
 
 ## 📈 Estatísticas do GitHub
